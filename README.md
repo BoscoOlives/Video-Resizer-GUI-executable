@@ -15,7 +15,7 @@ Instalar dependencias para crear el archivo ejecutable
 pip install pyinstaller
 pip install auto-py-to-exe
 ```
-Creación del archivo a partir de la interfaz gráfica, ejecutando el la terminal `auto-py-to-exe`
+Creación del archivo a partir de la interfaz gráfica, ejecutando en la terminal `auto-py-to-exe`
 
 ## Necesidad del programa
 Ha surgido esta necesidad a partir de observar el gran peso de los videos de 'grabación de pantalla' en Windows. Estos son grabados como mínimo a 1080p. No existe la forma de grabar nativamente desde Windows a resoluciones menores.
